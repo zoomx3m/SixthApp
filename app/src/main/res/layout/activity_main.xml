@@ -28,12 +28,10 @@
                 android:layout_height="75dp"
                 android:layout_marginTop="40dp"
                 style="@style/btn_1st_Style"
-
                 android:clickable="true"
                 android:state_focused="true"
                 android:gravity="center"
                 android:textColor="@color/colorTextLine"
-
                 android:text="@string/btn_1st_enter_name"
                 android:textSize="20sp"
                 android:background="@drawable/selector_button_1st" />
@@ -46,9 +44,7 @@
                 style="@style/edits_Style"
                 android:paddingBottom="35dp"
                 android:background="@drawable/selector_edit_1st"
-
-                android:hint="@string/edit_1st_text"
-                />
+                android:hint="@string/edit_1st_text"/>
 
             <EditText
                 android:id="@+id/editText_2nd"
@@ -66,8 +62,7 @@
                 style="@style/edits_Style"
                 android:paddingBottom="35dp"
                 android:background="@drawable/selector_edit_3th"
-                android:hint="@string/edit_3th_text"
-                />
+                android:hint="@string/edit_3th_text"/>
 
             <Button
                 android:id="@+id/btn_2nd"
