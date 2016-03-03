@@ -10,7 +10,7 @@
         android:centerX="0.15"
 
         android:angle="0"
-        android:endColor="#F1684ECF"
+        android:endColor="#8AAA00FF"
         android:startColor="#996900"/>
 
     <padding
