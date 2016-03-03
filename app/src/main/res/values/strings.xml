@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SixthApp</string>
+    <string name="btn_1st_enter_name">Please enter your name</string>
+    <string name="btn_2nd_text">add pls much txt</string>
+</resources>
